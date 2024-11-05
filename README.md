@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/346164c0-7d69-4527-bbba-ac5fd2eabfe8)
 
-Langton's Ant 6 is a description of a two-dimensional world in which an ant walks on an infinite grid of squares. All the squares start white. The ant begins at the point (0,0) and moves according to the following rules:
+Langton's Ant is a description of a two-dimensional world in which an ant walks on an infinite grid of squares. All the squares start white. The ant begins at the point (0,0) and moves according to the following rules:
 
 - When the ant encounters a white square, it turns 90 degrees to the right, changes the square’s color to black, and moves one step forward.
 - When the ant encounters a black square, it turns 90 degrees to the left, changes the square’s color to white, and moves one step forward.
